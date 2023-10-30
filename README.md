@@ -1,1 +1,1 @@
-# master-theses-2023
+This repository contains a list of master thesis proposals for the Master Computer Science at the University of Amsterdam in 2023. Please have a look at the .md files in this folder for further details.
